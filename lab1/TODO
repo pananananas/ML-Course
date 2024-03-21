@@ -1,0 +1,16 @@
+Zbiór:
+    - 5 plików
+    - 64 atrybuty
+
+Zadanie:
+    - zapoznanie się z zawartoscia zbioru
+    - przetwarzanie zbioru, analiza pod kątem modelowania
+    - budowa modelu klasyfikacji lub grupowania
+
+Kroki:
+    - zapoznanie się z opisem zbioru danych, wybór zakresu danych, eksploracyjna analiza 
+    - wyczyszczenie zbioru danych (wartosci ujemne, rózna skala, brakujace dane)
+    - analiza wartosci odstających z użyciem Z-score lub outlier detection
+    - analiza zbiorów po redukcji wymiarów dwoma metodami: PCA i t-SNE lub UMAP
+    - uruchomienie wybranego modelu klasyfikacji lub grupowania. 
+    - analiza porównawcza wyników oraz decyzji podjętych w trakcie przygotowywania danych do modelowania
