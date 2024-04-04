@@ -1,0 +1,64 @@
+((cash + short-term securities + receivables - short-term liabilities) / (operating expenses - depreciation)) * 365    21956
+EBITDA (profit on operating activities - depreciation) / total assets                                                  17805
+EBITDA (profit on operating activities - depreciation) / sales                                                         17766
+retained earnings / total assets                                                                                        9723
+net profit / inventory                                                                                                  9304
+net profit / total assets                                                                                               9293
+net profit / sales                                                                                                      9278
+EBIT / total assets                                                                                                     9148
+(gross profit + interest) / sales                                                                                       8679
+profit on sales / total assets                                                                                          8382
+profit on sales / sales                                                                                                 8321
+(current assets - inventory - short-term liabilities) / (sales - gross profit - depreciation)                           8089
+profit on operating activities / financial expenses                                                                     7557
+profit on operating activities / total assets                                                                           7346
+profit on operating activities / sales                                                                                  7292
+(net profit + depreciation) / total liabilities                                                                         6421
+(total liabilities * 365) / (gross profit + depreciation)                                                               6380
+(total liabilities - cash) / sales                                                                                      5475
+(equity - share capital) / total assets                                                                                 5222
+total liabilities / ((profit on operating activities + depreciation) * (12/365))                                        5074
+operating expenses / total liabilities                                                                                  2566
+long-term liabilities / equity                                                                                          1256
+total costs /total sales                                                                                                  39
+(inventory * 365) / cost of products sold                                                                                 20
+sales (n) / sales (n-1)                                                                                                   12
+(receivables * 365) / sales                                                                                                8
+rotation receivables + inventory turnover in days                                                                          8
+(current liabilities * 365) / cost of products sold                                                                        8
+operating expenses / short-term liabilities                                                                                8
+(short-term liabilities * 365) / cost of products sold                                                                     7
+logarithm of total assets                                                                                                  6
+(short-term liabilities *365) / sales                                                                                      5
+sales / short-term liabilities                                                                                             4
+total liabilities / total assets                                                                                           3
+total sales / total assets                                                                                                 3
+(inventory * 365) / sales                                                                                                  2
+short-term liabilities / total assets                                                                                      1
+(sales - cost of products sold) / sales                                                                                    0
+equity / fixed assets                                                                                                      0
+constant capital / fixed assets                                                                                            0
+working capital                                                                                                            0
+working capital / total assets                                                                                             0
+book value of equity / total liabilities                                                                                   0
+current assets / short-term liabilities                                                                                    0
+sales / total assets                                                                                                       0
+sales / inventory                                                                                                          0
+sales / receivables                                                                                                        0
+current assets / total liabilities                                                                                         0
+(gross profit + extraordinary items + financial expenses) / total assets                                                   0
+equity / total assets                                                                                                      0
+working capital / fixed assets                                                                                             0
+(current assets - inventory) / short-term liabilities                                                                      0
+gross profit / short-term liabilities                                                                                      0
+(gross profit + depreciation) / sales                                                                                      0
+(gross profit + interest) / total assets                                                                                   0
+(gross profit + depreciation) / total liabilities                                                                          0
+total assets / total liabilities                                                                                           0
+(current assets - inventory - receivables) / short-term liabilities                                                        0
+gross profit / total assets                                                                                                0
+constant capital / total assets                                                                                            0
+(current assets - inventories) / long-term liabilities                                                                     0
+gross profit / sales                                                                                                       0
+gross profit (in 3 years) / total assets                                                                                   0
+sales / fixed assets                                                                                                       0
