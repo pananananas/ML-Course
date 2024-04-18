@@ -1,0 +1,15 @@
+Zadania:
+[x] uruchomienie k-nn dla iris - parametry domyślne
+[x] confusion matrix
+[x] jakość klasyfikacji - precision, recall, f-score, accuracy
+[x] zbadanie skuteczności knn dla IRIS
+[x] walidacja krzyzowa dla roznych rozmiarów
+    [x] (fold = 2, 5, 10 jak wpływa na skuteczność) 
+    [x] czy powinno się używać mieszania shuffle, 
+    [x] czy warto rozważyć użycie walidacji krzyżowej typu leave-one-out 
+    [x] zbadać walidację stratyfikowaną, jak wpływa na skuteczność
+[x] sprawdzenie różnych wartości parametrów klasyfikatora knn dla IRIS 
+    [x] (k z przedzia 1-15), parzyste i nieparzyste k czy daje podobne wyniki i dlaczego
+    [ ] 3 sposoby głosowania - większościowe, ważone (np. odległością), oraz inne (zaproponowane przez studenta)
+    [x] 3 miary odległości w przestrzeni danych (warto sprawdzić nie tylko odległość Euklidesa, Manhattańska, ale także miarę Minkowskiego, Mahalanobisa czy Czybyszewa)
+[x] to samo dla GLASS i WINE
